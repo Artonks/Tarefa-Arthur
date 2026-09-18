@@ -1,0 +1,5 @@
+A = int(input('Digite o primeiro número: '))
+B = int(input('Digite o primeiro número: '))
+C = int(input('Digite o primeiro número: '))
+t = sorted([A,B,C])
+print(f'O maior número: {t[2]}, o segundo: {t[1]} e o terceiro: {t[0]}. A ordem da sua escolha foi a seguinte {A},{B},{C}.')
