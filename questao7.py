@@ -1,4 +1,3 @@
-# Lê o valor de n digitado pelo usuário
 n = int(input())
 answer = []
 
